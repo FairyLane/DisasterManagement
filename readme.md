@@ -78,8 +78,9 @@ Fix: cd C:\Users\sriva\Downloads\DisasterFlow\DisasterFlow && python app.py
 **Anushka Agarwal**  
 **202210101150039**
 **Anshul Patel**
-**202210101150013**
-**Haider Ali**
 **202210101150014**
+**Haider Ali**
+**202210101150013**
+
 
 
